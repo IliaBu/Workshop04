@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Exception/AmountException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Exception/AmountException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Exception/CustomerException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Exception/CustomerException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Exception/ProductException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Exception/ProductException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Model/Customer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Model/Order.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Model/Product.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/Model/Shop.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/UI/Colors.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/UI/ConsoleUi.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/UI/IExecutable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/UI/MainMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/UI/Menu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/gb/java_core/UI/MenuItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49f69862-e367-4f7a-bdd9-a042a1cf917f" name="Changes" comment="Create code">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Exception/AmountException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Exception/CustomerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Exception/ProductException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/CustomerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/Model/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/UI/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/gb/java_core/UI/ConsoleUi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="first" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZyrtDVXu3evzwLXbuNCWOrD39c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java/Workshop04/src/main/java/gb/java_core/Model&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.38086477&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\Workshop04\src\main\java\gb\java_core\Model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="gb.java_core" />
+      <recent name="gb.java_core.task2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="liberica-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="gb.java_core.Main" />
+      <module name="Workshop04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gb.java_core.UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49f69862-e367-4f7a-bdd9-a042a1cf917f" name="Changes" comment="" />
+      <created>1703405375675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703405375675</updated>
+      <workItem from="1703405377442" duration="3933000" />
+      <workItem from="1703409352488" duration="7200000" />
+      <workItem from="1705138724558" duration="32000" />
+      <workItem from="1705138873975" duration="82000" />
+      <workItem from="1705138983967" duration="18381000" />
+      <workItem from="1705157587455" duration="217000" />
+      <workItem from="1705157891893" duration="30000" />
+      <workItem from="1705158153416" duration="333000" />
+      <workItem from="1705158538778" duration="10481000" />
+      <workItem from="1705169260885" duration="329000" />
+    </task>
+    <task id="LOCAL-00001" summary="Создан код для функции подсчёта кол-ва четных эл-ов и функции подсчёта разницы между большим и маленькими эл-ами массива">
+      <created>1703414681289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703414681289</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Создан код для функции подсчёта кол-ва четных эл-ов, подсчёта разницы между большим и маленькими эл-ами массива и поиска 2-ъ элементов нулевых элементов">
+      <created>1703416270596</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703416270596</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлены условия 3-х задач к семинару 3">
+      <created>1705139973594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705139973594</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create code">
+      <created>1705157229338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705157229338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create code">
+      <created>1705157389163</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705157389163</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create code">
+      <created>1705158218356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705158218356</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
+    <MESSAGE value="Создан код для функции подсчёта кол-ва четных эл-ов и функции подсчёта разницы между большим и маленькими эл-ами массива" />
+    <MESSAGE value="Создан код для функции подсчёта кол-ва четных эл-ов, подсчёта разницы между большим и маленькими эл-ами массива и поиска 2-ъ элементов нулевых элементов" />
+    <MESSAGE value="Добавлены условия 3-х задач к семинару 3" />
+    <MESSAGE value="Create code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create code" />
+  </component>
+</project>
